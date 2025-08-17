@@ -1,0 +1,7 @@
+streamlit
+pandas
+langchain
+openai
+chromadb
+pdfminer.six
+unstructured
